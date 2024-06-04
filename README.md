@@ -4,11 +4,11 @@ I’m a full stack Developer with a passion for building visually stunning and i
 
 With all my projects that I take on, I bring high value skills and  a mission accomplishment mindset stemming from time to time, Are you ready to tackle big tech challenges together? Let's go, I'm ready to build and collaborate.
 
-Want to know more about Custor Dev? Check out my links below.
+Want to know more about Custor Dev 💖 Check out my links below.
 
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/custor-dev-ian-sebugenyi-119059275/)
 [![Instagram Badge](https://img.shields.io/badge/Instagram-informational?style=flat&logo=instagram&logoColor=white&color=E1306C)](https://www.instagram.com/custordev/)
-[![Facebook Badge](https://img.shields.io/badge/facebook-informational?style=flat&logo=facebook&logoColor=white&color=E1306C)](https://www.facebook.com/ian.custor)
+[![Facebook Badge](https://img.shields.io/badge/facebook-informational?style=flat&logo=facebook&logoColor=white&color=0D76A8)](https://www.facebook.com/ian.custor)
 [![Youtube Badge](https://img.shields.io/badge/youtube-informational?style=flat&logo=youtube&logoColor=white&color=E1306C)](https://www.youtube.com/@custorDev)
 
 
