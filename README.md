@@ -10,6 +10,7 @@ Want to know more about Custor Dev 💖 Check out my links below.
 [![Instagram Badge](https://img.shields.io/badge/Instagram-informational?style=flat&logo=instagram&logoColor=white&color=E1306C)](https://www.instagram.com/custordev/)
 [![Facebook Badge](https://img.shields.io/badge/facebook-informational?style=flat&logo=facebook&logoColor=white&color=0D76A8)](https://www.facebook.com/ian.custor)
 [![Youtube Badge](https://img.shields.io/badge/youtube-informational?style=flat&logo=youtube&logoColor=white&color=E1306C)](https://www.youtube.com/@custorDev)
+[![Twitter Badge](https://img.shields.io/badge/twitter-informational?style=flat&logo=x&logoColor=white&color=black)](https://twitter.com/cus_tor)
 
 
 
